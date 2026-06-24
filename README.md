@@ -2,6 +2,10 @@
 
 你好，我正在从 0 开始学习 GitHub。
 
+GitHub 网页 = 云端仓库
+GitHub Desktop = 管理本地仓库和云端仓库的工具
+你电脑里的文件夹 = 本地仓库
+
 ## 今天学到的内容
 
 - GitHub Desktop 可以帮我管理项目
