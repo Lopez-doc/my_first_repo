@@ -15,9 +15,9 @@
 
 ## 附件
 
-Name：仓库名字
-Description：仓库简介
-Local path：保存在电脑哪里
-README：项目说明文件，建议勾选
-Git ignore：忽略不上传的文件，新手先 None
-License：开源协议，新手先 None
+- Name：仓库名字
+- Description：仓库简介
+- Local path：保存在电脑哪里
+- README：项目说明文件，建议勾选
+- Git ignore：忽略不上传的文件，新手先 None
+- License：开源协议，新手先 None
