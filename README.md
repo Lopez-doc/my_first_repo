@@ -31,3 +31,12 @@ GitHub Desktop = 管理本地仓库和云端仓库的工具
 - Keep this code private 不勾选 = 公开
 - Keep this code private 勾选 = 私有
 
+
+day 2
+
+- Commit = 保存一次修改记录
+- History = 查看修改历史
+- Fetch = 检查云端更新
+- Pull = 下载云端更新
+- Push = 上传本地更新
+- Changes = 当前还没提交的修改
