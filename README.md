@@ -32,7 +32,7 @@ GitHub Desktop = 管理本地仓库和云端仓库的工具
 - Keep this code private 勾选 = 私有
 
 
-day 2
+## Day 2 总结
 
 - Commit = 保存一次修改记录
 - History = 查看修改历史
@@ -42,8 +42,6 @@ day 2
 - Changes = 当前还没提交的修改
 
 
-day 3
-
 ## Day 3 总结
 
 今天我学习了 Branch 分支。
@@ -51,4 +49,18 @@ day 3
 main 是正式版本，branch 是临时修改版本。
 我可以先在分支上修改内容，确认没问题后再合并回 main。
 
+- 流程:创建分支 -> 修改文件 -> commit -> publish branch -> pull request -> merge -> main 更新
+- Publish branch 意思是：把你电脑里的这个新分支上传到 GitHub 云端。
+- Create Pull Request 意思是：我想把 add-day-3-notes 的修改合并到 main，请检查一下
+- Merge pull request 意思是：确认把 add-day-3-notes 的修改放进 main
 
+合并时一定要看清楚两个东西：
+``` text
+base branch = 要合并到哪里
+compare branch = 从哪里拿修改
+
+base: main
+compare: add-day-3-notes
+
+把 add-day-3-notes 合并到 main
+```
