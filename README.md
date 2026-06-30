@@ -64,3 +64,15 @@ compare: add-day-3-notes
 
 把 add-day-3-notes 合并到 main
 ```
+
+## Day 4 总结
+
+- Star = 收藏项目
+- Fork = 复制项目到自己账号
+- Watch = 订阅项目动态
+- README.md = 项目说明书，最先看
+- Code = 项目文件和代码
+- Issues = 问题、需求、讨论
+- Pull requests = 别人提交的修改
+- Commits = 修改历史
+- Releases = 发布版本
