@@ -76,3 +76,22 @@ compare: add-day-3-notes
 - Pull requests = 别人提交的修改
 - Commits = 修改历史
 - Releases = 发布版本
+
+
+## Day 5 总结
+
+今天我学习了 Issue 的完整流程。
+
+- Issue 用来记录任务、问题、建议或讨论。
+- 完成任务时，可以创建分支进行修改，再通过 Pull Request 合并到 main。
+```text
+Issue = 任务 / 问题 / 建议 / 讨论
+New issue = 创建任务
+Close issue = 关闭任务
+#1 = Issue 编号
+Closes #1 = 合并后自动关闭 Issue
+PR = 提交修改来完成 Issue
+```
+
+
+
