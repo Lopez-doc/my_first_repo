@@ -85,8 +85,16 @@ compare: add-day-3-notes
 - Issue 用来记录任务、问题、建议或讨论。
 - 完成任务时，可以创建分支进行修改，再通过 Pull Request 合并到 main。
 ```text
-Issue = 任务 / 问题 / 建议 / 讨论
-New issue = 创建任务
+Issue = 记录任务
+Branch = 单独完成任务
+Commit = 保存修改
+Publish = 上传分支
+Pull Request = 请求合并
+Closes #编号 = 合并后关闭 Issue
+Merge = 合并到 main
+Delete branch = 删除完成的临时分支
+Pull = 同步最新 main 到本地
+
 Close issue = 关闭任务
 #1 = Issue 编号
 Closes #1 = 合并后自动关闭 Issue
